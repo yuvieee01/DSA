@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 5
+- **Total Problems Solved:** 6
 - **Easy:** 3 🟢
-- **Medium:** 2 🟡
+- **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | python3 | 2026-03-25 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959004702/) | 🟢 Easy | python3 | 2026-03-25 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1959148530/) | 🟢 Easy | python3 | 2026-03-25 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 🟡 Medium | python3 | 2026-03-25 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1959321261/) | 🟡 Medium | python3 | 2026-03-25 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1959313975/) | 🟡 Medium | python3 | 2026-03-25 |
 
