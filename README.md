@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
+- **Total Problems Solved:** 11
 - **Easy:** 5 🟢
-- **Medium:** 5 🟡
+- **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1959321261/) | 🟡 Medium | python3 | 2026-03-25 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | python3 | 2026-03-26 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1959313975/) | 🟡 Medium | python3 | 2026-03-25 |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | cpp | 2026-05-12 |
 
 ---
 
