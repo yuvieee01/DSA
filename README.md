@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 14
-- **Easy:** 4 🟢
+- **Total Problems Solved:** 15
+- **Easy:** 5 🟢
 - **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1959004702/) | 🟢 Easy | python3 | 2026-03-25 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1959148530/) | 🟢 Easy | python3 | 2026-03-25 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | python3 | 2026-03-26 |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | python3 | 2026-07-24 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | cpp | 2026-05-12 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 🟡 Medium | python3 | 2026-03-25 |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 🟡 Medium | cpp | 2026-05-12 |
