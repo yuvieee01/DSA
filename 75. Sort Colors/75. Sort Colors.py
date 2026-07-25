@@ -1,7 +1,7 @@
 #
 # Problem: 75. Sort Colors
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/sort-colors/
+# Link: https://leetcode.com/problems/sort-colors/submissions/2080783707/
 # Language: python3
 # Date: 2026-07-25
 
@@ -12,17 +12,18 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        l, m, h = 0, 0, n-1
 
-        while m <= h:
-            if nums[m] == 0:
-                nums[m], nums[l] = nums[l], nums[m]
-                l += 1
-                m += 1
+        a, b, c = 0, 0, n-1
+
+        while b <= c:
+            if nums[b] == 0:
+                nums[a], nums[b] = nums[b], nums[a]
+                a += 1
+                b += 1
             
-            elif nums[m] == 1:
-                m += 1
+            elif nums[b] == 2:
+                nums[c] , nums[b] = nums[b], nums[c]
+                c -= 1
             
             else:
-                nums[m], nums[h] = nums[h], nums[m]
-                h -= 1
+                b += 1
