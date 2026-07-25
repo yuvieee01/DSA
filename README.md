@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 8 🟢
 - **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1959148530/) | 🟢 Easy | python3 | 2026-03-25 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | python3 | 2026-03-26 |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | python3 | 2026-07-24 |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-07-25 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-07-25 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | python3 | 2026-07-24 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | cpp | 2026-05-12 |
