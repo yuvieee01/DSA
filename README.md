@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 20
+- **Total Problems Solved:** 21
 - **Easy:** 8 🟢
-- **Medium:** 12 🟡
+- **Medium:** 13 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | cpp | 2026-05-12 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 🟡 Medium | python3 | 2026-03-25 |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 🟡 Medium | cpp | 2026-05-12 |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | python3 | 2026-07-27 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-05-12 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | 🟡 Medium | python3 | 2026-03-26 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1959321261/) | 🟡 Medium | python3 | 2026-03-25 |
