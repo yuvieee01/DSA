@@ -1,15 +1,15 @@
 #
 # Problem: 121. Best Time to Buy and Sell Stock
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2086573486/
+# Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2086583796/
 # Language: python3
 # Date: 2026-07-29
 
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        ch = float('inf')
         pro = 0
-        ch = prices[0]
 
         for price in prices:
             if price < ch:
