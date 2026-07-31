@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
-- **Easy:** 14 🟢
+- **Total Problems Solved:** 29
+- **Easy:** 15 🟢
 - **Medium:** 14 🟡
 - **Hard:** 0 🔴
 
@@ -21,6 +21,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2086573486/) | 🟢 Easy | python3 | 2026-07-29 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2086583796/) | 🟢 Easy | python3 | 2026-07-29 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | 🟢 Easy | python3 | 2026-07-31 |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | python3 | 2026-07-31 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1959148530/) | 🟢 Easy | python3 | 2026-03-25 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | python3 | 2026-03-26 |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | python3 | 2026-07-24 |
