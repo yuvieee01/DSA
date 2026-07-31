@@ -1,7 +1,7 @@
 #
 # Problem: 189. Rotate Array
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/rotate-array/description/
+# Link: https://leetcode.com/problems/rotate-array/
 # Language: python3
 # Date: 2026-07-31
 
@@ -14,9 +14,6 @@ class Solution:
             r-=1
 
     def rotate(self, nums: List[int], k: int) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
         n = len(nums)
         k = k % n
 
