@@ -6,7 +6,26 @@
 # Date: 2026-07-31
 
 
-# Brute:
+# Better Approach:
+class Solution:
+    def rearrangeArray(self, nums: List[int]) -> List[int]:
+        res = [0] * len(nums)
+        pos = 0
+        neg = 1
+
+        for num in nums:
+            if num > 0:
+                res[pos] = num
+                pos += 2
+
+            elif num < 0:
+                res[neg] = num
+                neg += 2
+        
+        return res
+
+
+''' # Brute:
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
         res = []
@@ -24,3 +43,4 @@ class Solution:
             res.append(neg[i])
         
         return res
+'''
