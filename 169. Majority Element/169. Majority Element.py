@@ -6,7 +6,19 @@
 # Date: 2026-07-31
 
 
-# Brute:
+# Better Approach:
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        freq = {}
+        target = len(nums) // 2
+        
+        for num in nums:
+            freq[num] = freq.get(num, 0) + 1    # Add 1 to the current count (or 0 if it doesn't exist yet)
+
+            if freq[num] > target:
+                return num
+
+''' # Brute:
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         for num in nums:
@@ -16,3 +28,4 @@ class Solution:
                     c += 1
                     if c > len(nums)//2:
                         return num
+'''
