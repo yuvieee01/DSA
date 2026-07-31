@@ -6,7 +6,7 @@
 # Date: 2026-07-31
 
 
-# Better Approach:
+# Optimal Approach:
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
         res = [0] * len(nums)
