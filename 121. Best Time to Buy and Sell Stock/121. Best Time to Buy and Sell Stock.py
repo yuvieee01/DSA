@@ -1,9 +1,9 @@
 #
 # Problem: 121. Best Time to Buy and Sell Stock
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2086583796/
+# Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 # Language: python3
-# Date: 2026-07-29
+# Date: 2026-07-31
 
 
 class Solution:
