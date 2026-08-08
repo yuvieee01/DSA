@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/max-consecutive-ones/description/
 # Language: python3
-# Date: 2026-07-24
+# Date: 2026-08-08
 
 
 class Solution:
@@ -11,15 +11,13 @@ class Solution:
         mx = 0
         curr = 0
 
-        for i in nums:
-            if i:
+        for num in nums:
+
+            if num == 1:
                 curr += 1
-            if not i:
-                if curr >= mx:
-                    mx = curr
+                mx = max(mx, curr)
+
+            else:
                 curr = 0
-        
-        if curr >= mx:
-            return curr
-        
+
         return mx
