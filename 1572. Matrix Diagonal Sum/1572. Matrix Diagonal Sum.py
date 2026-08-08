@@ -1,9 +1,9 @@
 #
 # Problem: 1572. Matrix Diagonal Sum
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/matrix-diagonal-sum/submissions/2098325342/
+# Link: https://leetcode.com/problems/matrix-diagonal-sum/description/
 # Language: python3
-# Date: 2026-08-07
+# Date: 2026-08-08
 
 
 class Solution:
