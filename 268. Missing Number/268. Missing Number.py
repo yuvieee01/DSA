@@ -1,9 +1,9 @@
 #
 # Problem: 268. Missing Number
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/missing-number/
+# Link: https://leetcode.com/problems/missing-number/description/
 # Language: python3
-# Date: 2026-07-24
+# Date: 2026-08-08
 
 
 from collections import defaultdict
