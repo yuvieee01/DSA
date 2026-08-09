@@ -1,11 +1,17 @@
 #
 # Problem: 7. Reverse Integer
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/reverse-integer/
+# Link: https://leetcode.com/problems/reverse-integer/description/
 # Language: python3
-# Date: 2026-07-25
+# Date: 2026-08-09
 
 
+class Solution:
+    def reverse(self, x: int) -> int:
+        if x > 0:
+            x = 
+
+"""# What I did (Pythonic way):
 class Solution:
     def reverse(self, x: int) -> int:
         if x < 0:
@@ -16,3 +22,4 @@ class Solution:
         if x > (2**31)-1 or x < -2**31:
             return 0
         else: return x
+"""
