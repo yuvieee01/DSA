@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 39
+- **Total Problems Solved:** 40
 - **Easy:** 24 🟢
-- **Medium:** 15 🟡
+- **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -49,6 +49,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1959313975/) | 🟡 Medium | python3 | 2026-03-25 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-06 |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | python3 | 2026-07-25 |
+| [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/2100601109/) | 🟡 Medium | python3 | 2026-08-09 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | python3 | 2026-07-25 |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | 🟡 Medium | python3 | 2026-07-21 |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | cpp | 2026-05-12 |
