@@ -1,12 +1,12 @@
 #
 # Problem: 73. Set Matrix Zeroes
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/set-matrix-zeroes/submissions/2100601109/
+# Link: https://leetcode.com/problems/set-matrix-zeroes/
 # Language: python3
 # Date: 2026-08-09
 
 
-# My approach:
+# My approach [O(m + n) - space]:
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         rows = len(matrix)
