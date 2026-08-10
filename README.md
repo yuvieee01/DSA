@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 43
-- **Easy:** 27 🟢
+- **Total Problems Solved:** 44
+- **Easy:** 28 🟢
 - **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | python3 | 2026-03-26 |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 🟢 Easy | python3 | 2026-08-08 |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 🟢 Easy | python3 | 2026-08-09 |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | python3 | 2026-08-10 |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | python3 | 2026-07-24 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-07-25 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-07-25 |
