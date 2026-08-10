@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 45
-- **Easy:** 29 🟢
+- **Total Problems Solved:** 46
+- **Easy:** 30 🟢
 - **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2093148626/) | 🟢 Easy | python3 | 2026-08-03 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2096971531/) | 🟢 Easy | python3 | 2026-08-06 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2098325342/) | 🟢 Easy | python3 | 2026-08-07 |
+| [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | python3 | 2026-08-10 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | python3 | 2026-07-31 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1959148530/) | 🟢 Easy | python3 | 2026-03-25 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | python3 | 2026-03-26 |
