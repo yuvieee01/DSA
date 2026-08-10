@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 42
-- **Easy:** 26 🟢
+- **Total Problems Solved:** 43
+- **Easy:** 27 🟢
 - **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | 🟢 Easy | python3 | 2026-08-08 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | 🟢 Easy | python3 | 2026-08-09 |
 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | 🟢 Easy | python3 | 2026-08-05 |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | python3 | 2026-08-10 |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2093139931/) | 🟢 Easy | python3 | 2026-08-03 |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2093148626/) | 🟢 Easy | python3 | 2026-08-03 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2096971531/) | 🟢 Easy | python3 | 2026-08-06 |
