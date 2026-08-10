@@ -1,9 +1,9 @@
 #
 # Problem: 75. Sort Colors
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/sort-colors/description/
+# Link: https://leetcode.com/problems/sort-colors/
 # Language: python3
-# Date: 2026-08-09
+# Date: 2026-08-10
 
 
 class Solution:
