@@ -6,6 +6,32 @@
 # Date: 2026-08-10
 
 
+# The pythonic way:
+# and probably the fastest way on lc
+# because the .sort() is written in C
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        if not strs:
+            return ""
+            
+        # Sort the array alphabetically
+        strs.sort()
+        
+        # We only care about the first and last words now
+        first = strs[0]
+        last = strs[-1]
+        
+        res = ""
+        
+        # Compare letters one by one, up to the length of the shorter word
+        for i in range(min(len(first), len(last))):
+            if first[i] != last[i]:
+                return res
+            res += first[i]
+            
+        return res
+
+'''
 # My approach:
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
@@ -30,3 +56,4 @@ class Solution:
 
         return res
 
+'''
