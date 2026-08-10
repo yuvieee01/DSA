@@ -1,9 +1,9 @@
 #
 # Problem: 867. Transpose Matrix
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/transpose-matrix/description/
+# Link: https://leetcode.com/problems/transpose-matrix/submissions/2100609984/
 # Language: python3
-# Date: 2026-08-09
+# Date: 2026-08-10
 
 
 class Solution:
