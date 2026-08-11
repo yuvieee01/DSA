@@ -1,9 +1,9 @@
 #
 # Problem: 26. Remove Duplicates from Sorted Array
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+# Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 # Language: python3
-# Date: 2026-08-10
+# Date: 2026-08-11
 
 
 class Solution:
