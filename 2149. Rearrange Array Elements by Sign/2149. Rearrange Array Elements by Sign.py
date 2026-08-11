@@ -1,9 +1,9 @@
 #
 # Problem: 2149. Rearrange Array Elements by Sign
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/rearrange-array-elements-by-sign/
+# Link: https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
 # Language: python3
-# Date: 2026-08-10
+# Date: 2026-08-11
 
 
 # Optimal Approach:
