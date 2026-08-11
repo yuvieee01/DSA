@@ -1,9 +1,9 @@
 #
 # Problem: 14. Longest Common Prefix
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/longest-common-prefix/
+# Link: https://leetcode.com/problems/longest-common-prefix/description/
 # Language: python3
-# Date: 2026-08-10
+# Date: 2026-08-11
 
 
 # The pythonic way:
