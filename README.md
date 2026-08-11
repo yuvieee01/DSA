@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 48
+- **Total Problems Solved:** 49
 - **Easy:** 32 🟢
-- **Medium:** 16 🟡
+- **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -56,6 +56,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | python3 | 2026-03-26 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1959313975/) | 🟡 Medium | python3 | 2026-03-25 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-06 |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-11 |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | python3 | 2026-07-25 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/2100601109/) | 🟡 Medium | python3 | 2026-08-09 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | python3 | 2026-07-25 |
