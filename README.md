@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 46
-- **Easy:** 30 🟢
+- **Total Problems Solved:** 47
+- **Easy:** 31 🟢
 - **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
@@ -42,6 +42,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-07-25 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-07-25 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | python3 | 2026-07-24 |
+| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | python3 | 2026-08-11 |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | 🟢 Easy | python3 | 2026-08-06 |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | cpp | 2026-05-12 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 🟡 Medium | python3 | 2026-03-25 |
