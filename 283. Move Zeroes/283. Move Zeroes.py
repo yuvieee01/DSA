@@ -1,9 +1,9 @@
 #
 # Problem: 283. Move Zeroes
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/move-zeroes/
+# Link: https://leetcode.com/problems/move-zeroes/description/
 # Language: python3
-# Date: 2026-08-11
+# Date: 2026-08-12
 
 
 class Solution:
