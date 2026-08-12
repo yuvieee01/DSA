@@ -1,9 +1,9 @@
 #
 # Problem: 189. Rotate Array
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/rotate-array/
+# Link: https://leetcode.com/problems/rotate-array/description/
 # Language: python3
-# Date: 2026-08-11
+# Date: 2026-08-12
 
 
 class Solution:
