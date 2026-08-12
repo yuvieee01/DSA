@@ -1,9 +1,9 @@
 #
 # Problem: 485. Max Consecutive Ones
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/max-consecutive-ones/
+# Link: https://leetcode.com/problems/max-consecutive-ones/description/
 # Language: python3
-# Date: 2026-08-11
+# Date: 2026-08-12
 
 
 class Solution:
