@@ -1,9 +1,9 @@
 #
 # Problem: 169. Majority Element
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/majority-element/submissions/2100609184/
+# Link: https://leetcode.com/problems/majority-element/description/
 # Language: python3
-# Date: 2026-08-11
+# Date: 2026-08-12
 
 
 # Optimal Approach
