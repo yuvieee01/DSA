@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 63
+- **Total Problems Solved:** 64
 - **Easy:** 38 🟢
-- **Medium:** 25 🟡
+- **Medium:** 26 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -59,6 +59,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | python3 | 2026-07-31 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | 🟡 Medium | python3 | 2026-03-26 |
 | [3Sum](https://leetcode.com/problems/3sum/submissions/1959321261/) | 🟡 Medium | python3 | 2026-03-25 |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | python3 | 2026-08-20 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | python3 | 2026-03-26 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1959313975/) | 🟡 Medium | python3 | 2026-03-25 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-06 |
