@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/majority-element/description/
 # Language: python3
-# Date: 2026-08-18
+# Date: 2026-08-20
 
 
 # Optimal Approach
