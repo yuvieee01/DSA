@@ -1,9 +1,9 @@
 #
 # Problem: 73. Set Matrix Zeroes
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/set-matrix-zeroes/
+# Link: https://leetcode.com/problems/set-matrix-zeroes/description/
 # Language: python3
-# Date: 2026-08-20
+# Date: 2026-08-21
 
 
 class Solution:
