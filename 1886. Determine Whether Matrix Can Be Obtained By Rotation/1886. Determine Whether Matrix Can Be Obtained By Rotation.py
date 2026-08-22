@@ -1,9 +1,9 @@
 #
 # Problem: 1886. Determine Whether Matrix Can Be Obtained By Rotation
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
+# Link: https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/
 # Language: python3
-# Date: 2026-08-20
+# Date: 2026-08-21
 
 
 class Solution:
