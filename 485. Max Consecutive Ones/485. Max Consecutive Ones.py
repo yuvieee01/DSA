@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/max-consecutive-ones/description/
 # Language: python3
-# Date: 2026-08-20
+# Date: 2026-08-22
 
 
 class Solution:
