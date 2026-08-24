@@ -7,25 +7,29 @@
 
 
 # Optimal:
-from collections import defaultdict
-
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        # Map frequency tuples to lists of anagrams
-        anagram_map = defaultdict(list)
-        
-        for word in strs:
-            count = [0] * 26
+    def isAnagram(self, s: str, t: str) -> bool:
+        # Anagrams must be the exact same length
+        if len(s) != len(t):
+            return False
+
+        # 26 slots for lowercase English letters
+        count = [0] * 26
+
+        # Increment counts for the first string
+        for ch in s:
+            count[ord(ch) - ord('a')] += 1
+
+        # Decrement counts for the second string
+        for ch in t:
+            idx = ord(ch) - ord('a')
+            count[idx] -= 1
             
-            # Build the 26-slot signature for the current word
-            for char in word:
-                count[ord(char) - ord('a')] += 1
-                
-            # Tuples are immutable, making them valid dictionary keys
-            anagram_map[tuple(count)].append(word)
-            
-        # Return all the grouped lists
-        return list(anagram_map.values())
+            # If count drops below zero, 't' has an unmatched letter
+            if count[idx] < 0:
+                return False
+
+        return True
 
 # What i did:
 '''
