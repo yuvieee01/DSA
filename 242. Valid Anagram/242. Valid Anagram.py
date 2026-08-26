@@ -1,9 +1,9 @@
 #
 # Problem: 242. Valid Anagram
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/valid-anagram/
+# Link: https://leetcode.com/problems/valid-anagram/description/
 # Language: python3
-# Date: 2026-08-24
+# Date: 2026-08-26
 
 
 # Optimal:
