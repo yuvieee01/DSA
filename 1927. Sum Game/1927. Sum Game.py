@@ -1,9 +1,9 @@
 #
 # Problem: 1927. Sum Game
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23
+# Link: https://leetcode.com/problems/sum-game/description/?envType=daily-question&envId=2026-08-23
 # Language: python3
-# Date: 2026-08-23
+# Date: 2026-08-26
 
 
 # Optimal:
