@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 71
+- **Total Problems Solved:** 72
 - **Easy:** 43 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 1 🔴
 
 ## 📝 Problems
@@ -59,6 +59,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | cpp | 2026-05-12 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 🟡 Medium | python3 | 2026-03-25 |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 🟡 Medium | cpp | 2026-05-12 |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | python3 | 2026-09-01 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | python3 | 2026-07-27 |
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | python3 | 2026-08-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-05-12 |
