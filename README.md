@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 68
-- **Easy:** 40 🟢
+- **Total Problems Solved:** 69
+- **Easy:** 41 🟢
 - **Medium:** 27 🟡
 - **Hard:** 1 🔴
 
@@ -36,6 +36,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | python3 | 2026-08-10 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | python3 | 2026-07-31 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | python3 | 2026-08-20 |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | 🟢 Easy | python3 | 2026-09-01 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1959148530/) | 🟢 Easy | python3 | 2026-03-25 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | python3 | 2026-03-26 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | python3 | 2026-08-24 |
