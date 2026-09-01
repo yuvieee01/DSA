@@ -1,7 +1,7 @@
 #
 # Problem: 1957. Delete Characters to Make Fancy String
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/2127316773/
+# Link: https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 # Language: python3
 # Date: 2026-09-01
 
