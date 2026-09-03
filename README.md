@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 73
-- **Easy:** 44 🟢
+- **Total Problems Solved:** 74
+- **Easy:** 45 🟢
 - **Medium:** 28 🟡
 - **Hard:** 1 🔴
 
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2100609571/) | 🟢 Easy | python3 | 2026-08-10 |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | python3 | 2026-08-11 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | python3 | 2026-08-24 |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | python3 | 2026-09-03 |
 | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | 🟢 Easy | python3 | 2026-08-05 |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | python3 | 2026-08-10 |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2093139931/) | 🟢 Easy | python3 | 2026-08-03 |
