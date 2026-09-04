@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 74
-- **Easy:** 45 🟢
+- **Total Problems Solved:** 75
+- **Easy:** 46 🟢
 - **Medium:** 28 🟡
 - **Hard:** 1 🔴
 
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2096971531/) | 🟢 Easy | python3 | 2026-08-06 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2098325342/) | 🟢 Easy | python3 | 2026-08-07 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | python3 | 2026-08-10 |
+| [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | python3 | 2026-09-04 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | python3 | 2026-07-31 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | python3 | 2026-08-20 |
 | [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/2127316773/) | 🟢 Easy | python3 | 2026-09-01 |
