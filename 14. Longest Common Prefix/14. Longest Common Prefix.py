@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/longest-common-prefix/description/
 # Language: python3
-# Date: 2026-08-18
+# Date: 2026-09-04
 
 
 # The pythonic way:
