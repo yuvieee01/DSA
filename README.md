@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 76
-- **Easy:** 47 🟢
+- **Total Problems Solved:** 77
+- **Easy:** 48 🟢
 - **Medium:** 28 🟡
 - **Hard:** 1 🔴
 
@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-08-15 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-08-16 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | 🟢 Easy | python3 | 2026-08-18 |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | 🟢 Easy | python3 | 2026-09-07 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | python3 | 2026-07-24 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | python3 | 2026-08-11 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | python3 | 2026-09-07 |
