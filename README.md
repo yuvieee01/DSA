@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 77
+- **Total Problems Solved:** 78
 - **Easy:** 48 🟢
 - **Medium:** 28 🟡
-- **Hard:** 1 🔴
+- **Hard:** 2 🔴
 
 ## 📝 Problems
 
@@ -90,6 +90,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | 🟡 Medium | python3 | 2026-07-21 |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟡 Medium | cpp | 2026-05-12 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | 🔴 Hard | python3 | 2026-08-26 |
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/submissions/2135527900/) | 🔴 Hard | python3 | 2026-09-08 |
 
 ---
 
