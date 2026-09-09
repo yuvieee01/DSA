@@ -1,12 +1,19 @@
 #
 # Problem: 242. Valid Anagram
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/valid-anagram/description/
+# Link: https://leetcode.com/problems/valid-anagram/
 # Language: python3
-# Date: 2026-08-26
+# Date: 2026-09-09
 
+
+# Pythonic way:
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        isAnag = lambda a, b: sorted(a) == sorted(b)
+        return isAnag(s, t)
 
 # Optimal:
+'''
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         # Anagrams must be the exact same length
@@ -32,7 +39,7 @@ class Solution:
         return True
 
 # What i did:
-'''
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
