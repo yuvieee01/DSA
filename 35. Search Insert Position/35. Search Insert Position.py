@@ -1,9 +1,9 @@
 #
 # Problem: 35. Search Insert Position
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/search-insert-position/description/
+# Link: https://leetcode.com/problems/search-insert-position/
 # Language: python3
-# Date: 2026-09-07
+# Date: 2026-09-09
 
 
 class Solution:
