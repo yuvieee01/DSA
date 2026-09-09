@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 79
-- **Easy:** 49 🟢
+- **Total Problems Solved:** 80
+- **Easy:** 50 🟢
 - **Medium:** 28 🟡
 - **Hard:** 2 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | python3 | 2026-08-10 |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2093139931/) | 🟢 Easy | python3 | 2026-08-03 |
 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2093148626/) | 🟢 Easy | python3 | 2026-08-03 |
+| [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | python3 | 2026-09-09 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2096971531/) | 🟢 Easy | python3 | 2026-08-06 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/submissions/2098325342/) | 🟢 Easy | python3 | 2026-08-07 |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | python3 | 2026-08-10 |
