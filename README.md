@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 81
+- **Total Problems Solved:** 82
 - **Easy:** 51 🟢
-- **Medium:** 28 🟡
+- **Medium:** 29 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -68,6 +68,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 🟡 Medium | python3 | 2026-03-25 |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 🟡 Medium | cpp | 2026-05-12 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | python3 | 2026-09-01 |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | 🟡 Medium | python3 | 2026-09-10 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | python3 | 2026-07-27 |
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | python3 | 2026-08-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-05-12 |
