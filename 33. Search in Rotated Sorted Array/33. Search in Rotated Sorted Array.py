@@ -6,7 +6,36 @@
 # Date: 2026-09-12
 
 
+class Solution:
+    def search(self, nums: list[int], target: int) -> int:
+        l, r = 0, len(nums) - 1
+
+        while l <= r:
+            m = l + (r - l) // 2
+
+            if nums[m] == target:
+                return m
+
+            # 2. Is the LEFT half strictly sorted?
+            if nums[l] <= nums[m]:
+                # Is the target inside this sorted left half?
+                if nums[l] <= target < nums[m]:
+                    r = m - 1
+                else:
+                    l = m + 1
+                    
+            # 3. Otherwise, the RIGHT half must be strictly sorted
+            else:
+                # Is the target inside this sorted right half?
+                if nums[m] < target <= nums[r]:
+                    l = m + 1
+                else:
+                    r = m - 1
+                    
+        return -1
+
 # What I did (OPTIMAL) :
+'''
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         l, r = 0, len(nums) - 1
@@ -30,3 +59,4 @@ class Solution:
                     r = m - 1
         
         return -1
+'''
