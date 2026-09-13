@@ -1,7 +1,7 @@
 #
 # Problem: 1351. Count Negative Numbers in a Sorted Matrix
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+# Link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 # Language: python3
 # Date: 2026-09-13
 
@@ -33,8 +33,8 @@ class Solution:
                 
         return neg_count
 
-'''
 # Brute Force:
+'''
 class Solution:
     def countNegatives(self, grid: List[List[int]]) -> int:
         neg = 0
