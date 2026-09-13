@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 85
+- **Total Problems Solved:** 86
 - **Easy:** 51 🟢
-- **Medium:** 32 🟡
+- **Medium:** 33 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -89,6 +89,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-17 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-18 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | python3 | 2026-08-20 |
+| [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | python3 | 2026-09-13 |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | python3 | 2026-07-25 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/2100601109/) | 🟡 Medium | python3 | 2026-08-09 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | python3 | 2026-08-18 |
