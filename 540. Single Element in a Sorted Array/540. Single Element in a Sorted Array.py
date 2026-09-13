@@ -12,7 +12,7 @@ class Solution:
 
         while left < right:
             mid = left + (right - left) // 2
-            mid = (mid // 2) * 2    # mid = mid - (mid % 2) OR mid = mid ^ 1
+            mid = (mid // 2) * 2    # mid -= mid % 2 OR mid = mid ^ 1
             
             if nums[mid] == nums[mid + 1]:
                 left = mid + 2
