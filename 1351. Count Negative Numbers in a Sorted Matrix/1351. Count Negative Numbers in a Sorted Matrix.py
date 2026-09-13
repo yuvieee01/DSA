@@ -1,9 +1,9 @@
 #
 # Problem: 1351. Count Negative Numbers in a Sorted Matrix
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+# Link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
 # Language: python3
-# Date: 2026-08-05
+# Date: 2026-09-13
 
 
 # Optimal Approach (Staircase Walk):
