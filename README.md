@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 89
+- **Total Problems Solved:** 90
 - **Easy:** 52 🟢
-- **Medium:** 35 🟡
+- **Medium:** 36 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -75,6 +75,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | python3 | 2026-08-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-05-12 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | python3 | 2026-07-31 |
+| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | python3 | 2026-09-14 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | 🟡 Medium | python3 | 2026-03-26 |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | python3 | 2026-09-12 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2026-09-11 |
