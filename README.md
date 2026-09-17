@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 90
+- **Total Problems Solved:** 91
 - **Easy:** 52 🟢
-- **Medium:** 36 🟡
+- **Medium:** 37 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -72,6 +72,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | 🟡 Medium | python3 | 2026-09-10 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | python3 | 2026-09-13 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | python3 | 2026-07-27 |
+| [1901. Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | python3 | 2026-09-17 |
 | [1927. Sum Game](https://leetcode.com/problems/sum-game/?envType=daily-question&envId=2026-08-23) | 🟡 Medium | python3 | 2026-08-23 |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟡 Medium | python3 | 2026-05-12 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | python3 | 2026-07-31 |
