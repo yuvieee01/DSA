@@ -14,7 +14,7 @@ class Solution:
         left = 0
         right = cols - 1
         
-        while left < right:
+        while left <= right:
             mid_col = left + (right - left) // 2
 
             max_row = 0 # Find the row index of the maximum element in the current mid_col
