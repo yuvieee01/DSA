@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 # Language: python3
-# Date: 2026-09-04
+# Date: 2026-09-21
 
 
 class Solution:
